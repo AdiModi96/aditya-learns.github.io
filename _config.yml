@@ -4,17 +4,17 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-uk'
+language: 'en-us'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Aditya Learns'
+description: 'A blog decdicated to my experiments, explorations and results.'
 
-short_url: 'jekyllt.github.io/jasper/'
+short_url: 'aditya-learns.github.io/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
@@ -45,8 +45,8 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyllt
-repo: jasper
+username: AdiModi96
+repo: aditya-learns.github.io
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
